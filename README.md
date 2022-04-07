@@ -9,4 +9,4 @@ meCoderSagar/meCoderSagar is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meCoderSagar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
